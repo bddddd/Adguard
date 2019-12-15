@@ -15,11 +15,8 @@ v*-dy.ixigua.com/*/video/m/$app=~com.ss.android.ugc.aweme
 ||sl.sogoucdn.com/semob$empty,popup
 m.baidu.com,www.baidu.com$$div[class="main"]
 m.baidu.com###tab_news_1 > div.tab-news-content.water-container:nth-child(2)
-m.baidu.com###header > div:last-child > div:nth-child(2)
-m.baidu.com###center-content-1 > div.tab-wrap
-m.baidu.com###login-wraps > a.index-banner.square-banner-bgicon
-m.baidu.com###bottom
-m.baidu.com###center-content-1
+
+m.baidu.com,baidu.com###hotwordlist > div.hotword-container:first-child
 m.baidu.com###hotwordlist > div.hotword-container:first-child
 ||e.qq.com
 /?encrypt=$empty,app=com.tencent.mtt.intl
