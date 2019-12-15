@@ -14,6 +14,13 @@ v*-dy.ixigua.com/*/video/m/$app=~com.ss.android.ugc.aweme
 ||cpoml.iask.sina.com.cn^$empty
 ||sl.sogoucdn.com/semob$empty,popup
 m.baidu.com,www.baidu.com$$div[class="main"]
+m.baidu.com###tab_news_1 > div.tab-news-content.water-container:nth-child(2)
+m.baidu.com###header > div:last-child > div:nth-child(2)
+m.baidu.com###center-content-1 > div.tab-wrap
+m.baidu.com###login-wraps > a.index-banner.square-banner-bgicon
+m.baidu.com###bottom
+m.baidu.com###center-content-1
+m.baidu.com###hotwordlist > div.hotword-container:first-child
 ||e.qq.com
 /?encrypt=$empty,app=com.tencent.mtt.intl
 zhidao.baidu.com,www.baidu.com##[class^="EC_ads_"],.wgt-ads,div#left-promotion,div#ui-tooltip-0,div.cms-slide.cms-slide-optimus,div.wgt-bottom-ask,div.cms-slide.cms-slide-lazy,div.aside,div.aside-inner,div#top.top,#wgt-ecom-banner,.bannerdown,.cur
